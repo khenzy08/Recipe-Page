@@ -118,4 +118,16 @@ th, td {
     ul, ol {
         overflow-wrap: break-word;
     }
+
+    section {
+        width: 140%;
+    }
+
+    .ingredients {
+        width: 70%;
+    }
+
+    .guide {
+        width: 70%;
+    }
 }
