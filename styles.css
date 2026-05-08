@@ -113,3 +113,9 @@ th, td {
     padding-left: 10px;
     font-family: var(--text-font);
 }
+
+@media (max-width: 600px) {
+    ul, ol {
+        overflow-wrap: break-word;
+    }
+}
